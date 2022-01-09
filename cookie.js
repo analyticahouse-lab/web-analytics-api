@@ -4,4 +4,4 @@ document.head.appendChild(cookieLib);
 
 
 var cookieName = 'CMv2'
-Cookies.set(cookieName, userData.cd_user_id, { sameSite: 'Lax', secure: true, expires: 7})  
+Cookies.set(cookieName, 111, { sameSite: 'Lax', secure: true, expires: 7})  
